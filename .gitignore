@@ -1,0 +1,5 @@
+# thermal klasöründeki her şeyi ignore et
+thermal/*
+# Ancak .gitkeep dosyasını hariç tut
+!thermal/.gitkeep
+
